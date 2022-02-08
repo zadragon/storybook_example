@@ -22,4 +22,6 @@ function App() {
   );
 }
 
+// 스토리북 설명 유튜브 : https://www.youtube.com/watch?v=FUKpWgRyPlU&t=439s
+
 export default App;
